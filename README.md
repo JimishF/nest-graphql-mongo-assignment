@@ -65,6 +65,7 @@ query {
 - Understand terms used in the boilerplate
   - Module, (Providers & imports): [Reference Docs](https://docs.nestjs.com/modules)
   - Service : [Reference Docs](https://docs.nestjs.com/providers#services)
+  - Graphql : [Reference Docs](https://docs.nestjs.com/graphql/resolvers#code-first-resolver)
   - Unit test and mocking: [Reference Docs](https://docs.nestjs.com/fundamentals/testing#auto-mocking)
 
 ### Installation
